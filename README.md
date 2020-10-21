@@ -1,35 +1,4 @@
 # 10-10
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@achw151 
-achw151
-/
-10-10
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-10-10/第二次任务/denglu.html
-@achw151
-achw151 Add files via upload
-Latest commit 86fb794 32 seconds ago
- History
- 1 contributor
-42 lines (42 sloc)  1.38 KB
-  
 <!DOCTYPE html>
 <html>
 	<head>
@@ -72,15 +41,3 @@ when an unknow printer.</pre>
 		</div>
 	</body>
 </html>
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
